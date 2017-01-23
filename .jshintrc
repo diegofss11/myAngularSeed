@@ -1,0 +1,12 @@
+{
+  "bitwise": true,
+  "expr": true,
+  "camelcase" : true,
+  "curly": true,
+  "eqeqeq": true,
+  "newcap": true,
+  "devel": true,
+  "maxlen": 120,
+  "esversion": 6,
+  "debug": true
+}
